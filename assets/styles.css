@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  padding: 0;
+  margin: 0;
+}
+
+a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul li {
+  padding: 0;
+  margin: 0;
+}
+
+.p-item {
+  width: 45px;
+  height: 45px;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #8f8f8f;
+}
+
+.p-link {
+  padding: 0;
+  margin: 0;
+}
+
+.p-item:hover {
+  background-color: #c9c8c888;
+  transition: all 0.2s ease;
+}
+
+.p-active {
+  transform: scale(1.2);
+  color: rgba(255, 255, 255, 0.712);
+  border: 1px solid black;
+}
+
+.b-table {
+  height: 430px;
+}
