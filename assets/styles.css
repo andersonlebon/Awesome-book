@@ -4,6 +4,10 @@
   list-style: none;
 }
 
+.s-container {
+  transform: scale(0.7);
+}
+
 a {
   text-decoration: none;
   color: inherit;
