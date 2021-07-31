@@ -9,19 +9,19 @@
 ---
 ## DESCRIPTION 
 
-This project aims to display, delete and update books in the library
-
-## Live dome
-
-[Demo](https://andersonlebon.github.io/awesome-book/)
-
-#### Tasks In side:
+This project aims to display, delete and update books in the library.
+> Here are some Tasks In side:
 
 - Manage books collection (plain JS with objects).
 - Manage books collection (plain JS with classes).
 - Style core elements of the page.
 - Create a complete website with navigation.
 - Add pagination to the book Table
+
+## Live dome
+
+[Demo](https://andersonlebon.github.io/awesome-book/)
+
 
 ## Built With
 
