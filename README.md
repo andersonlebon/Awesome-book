@@ -7,6 +7,9 @@
 |  | ![127 0 0 1_5500_index html (5)](https://user-images.githubusercontent.com/65068771/125845737-89416fa1-37cb-41ed-aef7-04267ec83748.png) | ![127 0 0 1_5500_index html(iPhone 6_7_8) (1)](https://user-images.githubusercontent.com/65068771/125845758-a761d10b-5f57-4a37-a652-3bf1e7bdbc5b.png) |   |
 
 ---
+## DESCRIPTION 
+
+This project aims to display, delete and update books in the library
 
 ## Live dome
 
