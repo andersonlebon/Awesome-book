@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# AWESOME BOOKS: Dynamic websites with JS
+# AWESOME BOOKS
 
 | Desktop version | Mobile version|
 |-----------------|---------------|
@@ -42,20 +42,20 @@ To get the content of this project locally you need to run this command in your 
 
 For tracking linter errors locally you need to follow these steps:
 
-- After cloning the project you need to run this command
+- After cloning the project you need to run these commands
 
   > `npm install`
   > This command will download all the dependancies of the project
 
-- For tracking the linter errors in HTML file run:
+- For tracking linter errors in HTML files run:
 
   > `npx hint .`
 
-- For tracking the linter errors in CSS file run:
+- For tracking linter errors in CSS or SASS  files run:
 
   > `npx stylelint "\*_/_.{css,scss}"`
 
-- And For tracking the linter errors in JavaScript file run:
+- And For tracking linter errors in JavaScript files run:
 
   > `npx eslint .`
 
@@ -79,3 +79,6 @@ Give a :star: if you like this project!
 
 - Original source [Cindy Shin in Behance](https://www.behance.net/adagio07). But, the project personalized for my purposes.
 - Thanks to everyone who will get time to check this code especially to code reviewers.
+
+## :memo: License
+This project is [MIT](https://github.com/microverseinc/readme-template/blob/master/MIT.md)  licensed.
