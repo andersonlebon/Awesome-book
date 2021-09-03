@@ -20,7 +20,7 @@ This project aims to display, delete and update books in the library.
 
 ## Live dome
 
-[Demo](https://andersonlebon.github.io/awesome-book/)
+[Demo](https://andersonlebon.github.io/Awesome-book/)
 
 
 ## Built With
