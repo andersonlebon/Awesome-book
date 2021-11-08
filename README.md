@@ -63,9 +63,9 @@ For tracking linter errors locally you need to follow these steps:
 
 👤 **Anderson Caleb**
 
-- GitHub: [@Andersonlebon](https://github.com/andersonlebon)
-- Twitter: [@BuyananaCaleb](https://twitter.com/BuyananaCaleb)
-- LinkedIn: [Anderson Caleb](https://www.linkedin.com/in/andersonlebon/)
+- GitHub: [@andersonlebon](https://github.com/andersonlebon)
+- Twitter: [@buyananaCaleb](https://twitter.com/BuyananaCaleb)
+- LinkedIn: [anderson Caleb](https://www.linkedin.com/in/andersonlebon/)
 
 ## :handshake: Contributing
 
